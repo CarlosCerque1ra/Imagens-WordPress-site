@@ -1,0 +1,4 @@
+Primary color: #83c928
+
+Secondary color: #00ad9d
+

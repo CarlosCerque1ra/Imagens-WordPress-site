@@ -1,0 +1,20 @@
+Rodapé
+
+
+Widget 1 - imagem + Texto
+
+Telefone: 11-2345-6789
+WhatsApp: 11-9876-54321
+E-mail: contato@vidazen.com.br
+Rua Sem Nome, 403
+São Paulo - SP
+
+Widget 2 - Título + Artigos recentes
+
+Widget 3 - Ícones de redes Sociais
+
+
+Barra Lateral - Blog
+Pesquisar
+Últimas Postagens
+Comentários
